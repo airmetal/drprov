@@ -3,7 +3,7 @@ DR Provisioning
 
 Command to execute:
 
-./drprov.sh <CG name> <Datacenter ID>
+./drprov.sh CG_name Datacenter_ID
 
 example -
 
